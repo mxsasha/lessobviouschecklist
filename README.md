@@ -1,6 +1,6 @@
 # The Less Obvious Conference Checklist
 
-This is a checklist for conference organisers of less obvious things. It’s easy will remember to book a venue, look for speakers and sell the tickets, but you could overlook many small things that can help your conference stand out. I mainly compiled this list from my own experience and from what I’ve seen other conferences do. See the AUTHORS file for a more extensive attribution.
+This is a checklist for conference organisers of less obvious things. It’s easy will remember to book a venue, look for speakers and sell the tickets, but you could overlook many small things that can help your conference stand out. I mainly compiled this list from my own experience and from what I’ve seen other conferences do. So although I compiled the list, many recommendations are the result of hard work of others. See the AUTHORS file for a more extensive attribution.
 
 This is not a checklist of things you must do in order for your conference to be any good. Or a list of requirements for me to do something for your conference. Consider this more as a list of actionable and practical suggestions to help us make better conferences.
 
