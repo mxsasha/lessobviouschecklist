@@ -54,6 +54,9 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - If you have any side events, like a sprint, ask people in the ticket whether they will attend. That’ll get you some attendance numbers early on. Make sure people who are not familiar with sprints or another event can easily find what they are about.
 - Giving out t-shirts or other clothes? Ask people for their size when registering, and use this list at the registration desk when handing out the shirts. It speeds things up and helps make your t-shirt order more accurate.
 - Under absolutely [no circumstances](http://conferencesburnedbypaypal.tumblr.com) use [PayPal](http://pydanny.com/we-are-not-using-paypal.html) for receiving payments. In general, be careful with who you give control over your funds. Get it to your own bank account as soon as possible.
+- Consider using a specialized ticket sales service like [EventBrite](https://www.eventbrite.com/) or [DoAttend](http://doattend.com/)
+- Consider having a staggered ticket pricing. Give a discount for early bird sales and charge a premium the closer the tickets are bought to the event dates.
+- Consider having a limited number of tickets available at the spot, possibly at a significant premium. This incentivises normal ticket sales, but still allows for people who couldn't plan ahead dues to other life events.
 
 
 ## Team
