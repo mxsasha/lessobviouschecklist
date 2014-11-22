@@ -5,3 +5,7 @@ This list is originally compiled by @erikr, based on experiences from attending 
 Some conferences that inspired items on this list are [Django Circus](http://love.djangocircus.com) in Poland, [Django Island](http://2014.djangocon.eu) in France and [mdevcon](http://mdevcon.com).
 
 Note that the conferences and people mentioned do not necessarily endorse this list.
+
+The following people have contributed to the list:
+
+- Shabda Raaj <shabda@agiliq.com>
