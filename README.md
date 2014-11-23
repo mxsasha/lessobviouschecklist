@@ -43,6 +43,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - Ensure that all your speakers are familiar with your code of conduct.
 - Ensure you get the details of the sessions right. A good way to do this is to mail all speakers a week in advance (or at least before any print material is produced) confirming the times, locations, titles and abstracts of their sessions. Also useful to include: when you expect them to be at the venue at the latest, whether they should report anywhere specific, the details of their flight and hotel if applicable, and what technology you have available (beamer, adapters, connectors, etc.).
 - Remember to get all your speakers a modest speaker gift at the conference, regardless of the size of the speaker package.
+- Some people strongly prefer to share a hotel room with someone, others strongly prefer a private room. If you arrange hotel rooms for your speakers, you can always ask whether anyone would like to share. This works particularly well when many speakers know each other already. Sharing rooms reduces your costs. Do ensure that you always keep the option open for people to have a private room, without extra cost, for those that need the personal space or need a private room for other reasons.
 
 
 ## Ticket sales
