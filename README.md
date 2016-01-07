@@ -66,10 +66,16 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - Make sure to have some silent way of communicating across the entire team, that offers push messages too. A whatsapp group, for example. There will be unforeseen issues, and being able to communicate within the team is essential.
 - If you have volunteers outside of the main team that help you with registration, goodie bag sorting, or anything else, don’t forget to thank them for their work. Even a private word of appreciation can make a difference.
 
+## Recordings
+
+- If you are making recordings, make sure you have at least have a dedicated person for this, but ideally hire a professional.
+- If you’re hiring someone to make photos or videos, make sure you carefully review the contract regarding intellectual property: by default the laws in many countries leave all rights with the creator you hired, even though you pay them.
+- Make sure you notify attendees in advance that recordings are being made.
+- Not all attendees might be comfortable being recorded or photographed. Djangocon EU 2015 and others have offered two different colour lanyards, where a particular color indicates that attendee does not want to be photographed or recorded. When you ask people which colour they want at your registration desk, you’re also making everyone else aware of the significance of lanyard colours.
+- Ensure that you’ve obtained permission from all your speakers for recording them. Many conferences include this in the call for papers.
 
 ## Other
 
-- If you are making recordings, make sure you have at least have a dedicated person for this, but ideally hire a professional. For photos and videos, make sure you carefully review the contract regarding intellectual property: by default the laws in many countries leave all rights with the creator you hired, even though you pay them.
 - If you are making badges, make sure the names are very visible. About half the conferences I visit print the names no larger than 14pt or so, which makes them impossible to read from any distance. Ideally, print them double sided as they tend to flip around.
 - Always make a few extra blank badges, so that you can make some on the spot if needed, for example because you misprinted a badge.
 - Don’t forget to have fun :)
