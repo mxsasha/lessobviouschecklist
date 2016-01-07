@@ -27,7 +27,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 ## Making attendees feel at home
 
 - In general, use all your communication to make attendees feel welcome. At Django Under The Hood, we had posters with “Yay, you made it!” on all the entrances. Even minor touches like that can help create a good atmosphere at your conference.
-- The city where you’re holding your conference is probably well known to you. This is not the case for most of your visitors. Make them feel at home.
+- Basic bathroom supplies are much harder to find in an unknown country and area. At DUTH 2015 we had boxes near the bathrooms with items like toothbrushes, ibuprofen and hygiene products, free to take as needed by all attendees. It makes people feel a little more welcome.
+- The city where you’re holding your conference is probably well known to you. This is not the case for most of your visitors.
 - Help your attendees find their way around by writing something about travelling to and around the conference. [Here’s what I wrote for Django Under the Hood](http://www.djangounderthehood.com/travel/). Which airport should people go to? How do they best get to the city? How do they get from hotels to the venue? Can I buy transit tickets with a credit card? Do I need a visa? Is there a nearby supermarket?
 - Help attendees stay near other attendees. As soon as you know, tell people what the speaker hotel will be, so that others can decide to book there as well. Publish a few recommendations of alternatives, ideally with varying budgets.
 - In your program, be clear on what food you’re providing. Some conferences offer breakfast at the venue and then forget to tell attendees, which will then already have paid for hotel breakfast. The other way around also happens.
