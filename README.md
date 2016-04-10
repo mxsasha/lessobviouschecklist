@@ -99,6 +99,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 
 ## Other
 
+- If your community uses Twitter a lot, keep a stream of informing tweets going from your conference accounts. Just before lunch, tweet a reminder of where lunch is served and what people with special dietary needs should do. In the early morning, tweet when the first talk will start that day. If you change locations, tweet a reminder in the evening and the morning with instructions on how to get to the new location. During the afternoon, a reminder about the party that night. It’s hard to stay on top of this during the conference, so at DUTH 2015 I scheduled about 30 tweets in advance in [TweetDeck](https://tweetdeck.twitter.com). Just remember to update them if your schedule changes.
 - If you are making badges, make sure the names are very visible. About half the conferences I visit print the names no larger than 14pt or so, which makes them impossible to read from any distance. Ideally, print them double sided as they tend to flip around.
 - Always make a few extra blank badges, so that you can make some on the spot if needed, for example because you misprinted a badge.
 - Don’t forget to have fun :)
