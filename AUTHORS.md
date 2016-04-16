@@ -12,3 +12,4 @@ The following people have also contributed to the list:
 
 - Shabda Raaj <shabda@agiliq.com>
 - Valentin Lorentz <progval+github@progval.net>
+- Adam Dinwoodie (@me-and)
