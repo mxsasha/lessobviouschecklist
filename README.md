@@ -13,7 +13,6 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 
 ## Inclusivity
 - The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity is not exclusively about gender.
-- Consider offering childcare, to make the event more accessible to parents. [PyCon](http://us.pycon.org/2015/childcare/) has done this in the past. You could poll whether attendees might be interested, and see if it would be affordable for the parents. Perhaps one of the parents would even be happy to volunteer to help with preparation work. There can be legal requirements involved. If many of your attendees are from far away, the travel costs for a child would still be substantial, so another option is to offer to cover costs of childcare at home.
 - For events involving alcohol, help people who do not drink feel welcome. Mention non-alcoholic drinks as often as alcoholic drinks, make them equally visible and have an equal number of options. People who don’t drink alcohol should not have to justify themselves. [This article](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) has many more great practical tips.
 - If you are providing food, ask people in advance (during ticket registration, for example) about any preferences / allergies. This doesn’t mean you must cater to every possible option, but often a lot is possible.
 - Be mindful of how you identify the geographic region for the conference. DjangoCon Europe is notably not DjangoCon EU, because EU would mean we can’t have one in Switzerland. Communicate consistently on this.
@@ -56,6 +55,14 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - Don’t publish attendees’ info on an attendee list or something similar, without them opting in.
 - Make sure the organisers are visible. If you have a registration desk, try to have someone there all the time. If an attendee needs help, it can make them feel very lost if they can’t find an organiser.
 
+## Children
+
+- Consider offering childcare, to make the event more accessible to parents. [PyCon](http://us.pycon.org/2015/childcare/) has done this in the past. You could poll whether attendees might be interested, and see if it would be affordable for the parents. Perhaps one of the parents would even be happy to volunteer to help with preparation work. There can be legal requirements involved. 
+- If many of your attendees travel longer distances, the travel costs for a child would still be substantial for the parents, and it would take them extra effort and planning. Therefore, another option is to offer to cover costs of childcare at home. If most of your attendees are local, this is less of a concern.
+- In general, be explicit about whether children are welcome at your event and in which settings, and which kinds of food you can provide for them.
+- Some attendees may need to breastfeed or pump breastmilk. The best is to have a space planned for attendees for this purpose, and document who to make space requests to. A nursing parent at a conference will likely need to nurse/pump 1-3 times between 08:00 and 18:00 in 30 minute blocks of time (between setup, pumping, and cleanup). At a minimum, the space just needs to be clean, private, and have electricity. Include access to a refrigerator or mini-fridge if that is an option. Most event spaces (or HR departments, if the event is in an office space) are used to handling these sort of inquiries. 
+- If you are planning an event for women and may have many attendees who need nursing/pumping breaks, build in longer mid-morning/afternoon break times (30 minutes).
+- Be explicit in that the private breastfeeding room is an optional service, and that feeding is allowed wherever and whenever the attendee likes. Otherwise attendees may think this is only allowed in private spaces.
 
 ## Speakers
 
