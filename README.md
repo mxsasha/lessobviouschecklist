@@ -13,6 +13,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 
 ## Inclusivity
 - The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity is not exclusively about gender.
+- If you are running a financial aid program, I wrote about [some common issues I see](https://github.com/erikr/lessobviouschecklist/blob/master/FINANCIAL-AID.md).
 - For events involving alcohol, help people who do not drink feel welcome. Mention non-alcoholic drinks as often as alcoholic drinks, make them equally visible and have an equal number of options. People who don’t drink alcohol should not have to justify themselves. [This article](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) has many more great practical tips.
 - If you are providing food, ask people in advance (during ticket registration, for example) about any preferences / allergies. This doesn’t mean you must cater to every possible option, but often a lot is possible.
 - Be mindful of how you identify the geographic region for the conference. DjangoCon Europe is notably not DjangoCon EU, because EU would mean we can’t have one in Switzerland. Communicate consistently on this.
