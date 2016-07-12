@@ -31,7 +31,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - For people with auditory impairments or simply non-native English speakers, consider having a captioner/stenographer. This can also be incredibly helpful for non-native speakers, and means you have a written and searchable record afterwards. This was done at !!Con, who [wrote about how well it worked out for them](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/). Recent European Django conferences adopted this too.
 - In signage, lanyard colours and badge design, be mindful of those with color vision deficiency (commonly called color blindness). A good tool to test this on Mac OS X is [Color Oracle](http://www.colororacle.org).
 - It’s easy for people to feel overwhelmed by the social interactions, sound level and business at conferences. A quiet room, which is a (somewhat) noise insulated room where there is no talking, can give these attendees a chance to decompress. It’s also a good place for people that need to focus on some work. All you need is a room with some chairs/desks/beanbags.
-Make sure that your quiet room is in a place that's easily accessible.
+Make sure that your quiet room is in a place that's easily and discretely accessible.
 - Similarly, you can also consider to have a separate prayer room.
 
 ## Code of conduct
@@ -55,7 +55,7 @@ Make sure that your quiet room is in a place that's easily accessible.
 - The city where you’re holding your conference is probably well known to you. This is not the case for most of your visitors.
 - Help your attendees find their way around by writing something about travelling to and around the conference. [Here’s what I wrote for Django Under the Hood](http://www.djangounderthehood.com/travel/). Which airport should people go to? How do they best get to the city? How do they get from hotels to the venue? Can I buy transit tickets with a credit card? Do I need a visa? Is there a nearby supermarket?
 - Check local news for local events, construction sites or weather warnings that might impact the attendees' travel to the venue. Communicate these to your attendees to help them navigate it.
-- When picking a date for your event, check a global calendar to be aware of any cultural or religious holidays that may be outside of your direct awareness.
+- When picking a date for your event, check a calendar such as [interfaithcalendar.org](http://www.interfaithcalendar.org/) to be aware of any cultural or religious holidays that may be outside of your direct awareness.
 - Help attendees stay near other attendees. As soon as you know, tell people what the speaker hotel will be, so that others can decide to book there as well. Publish a few recommendations of alternatives, ideally with varying budgets.
 - In your program, be clear on what food you’re providing. Some conferences offer breakfast at the venue and then forget to tell attendees, which will then already have paid for hotel breakfast. The other way around also happens.
 - Many communities have in-jokes and amusing traditions. There’s nothing wrong with that, but it can make first-timers feel more alienated. You can reduce this by [publishing a glossary](https://2016.djangocon.eu/glossary/) of some of these things.
