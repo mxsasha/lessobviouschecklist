@@ -14,3 +14,4 @@ The following people have also contributed to the list:
 - Valentin Lorentz <progval+github@progval.net>
 - Adam Dinwoodie (@me-and)
 - @elliewix
+- Lacey Williams Henschel (@williln)
