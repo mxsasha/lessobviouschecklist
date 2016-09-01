@@ -113,6 +113,7 @@ Make sure that your quiet room is in a place that's easily and discretely access
 - Make sure you notify attendees in advance that recordings are being made.
 - Not all attendees might be comfortable being recorded or photographed. DjangoCon Europe 2015 and others have offered two different colour lanyards, where a particular color indicates that attendee does not want to be photographed or recorded. When you ask people which colour they want at your registration desk, you’re also making everyone else aware of the significance of lanyard colours.
 - Ensure that you’ve obtained permission from all your speakers for recording them. Many conferences include this in the call for papers.
+- If you are uploading talk recordings to services like YouTube that allow comments on videos, ensure the comments are moderated or disabled. Otherwise, you risk [harassing comments being made](https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/), at any time after the conference, when your team is also probably less available.
 
 ## Other
 
