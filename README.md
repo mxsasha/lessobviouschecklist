@@ -10,6 +10,20 @@ This list is almost certainly incomplete. If you have any suggestions, open a pu
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](https://creativecommons.org/licenses/by-sa/2.0/).
 
+### Contents
+
+* [Inclusivity](#inclusivity)
+* [Accessibility](#accessibility)
+* [Code of conduct](#code-of-conduct)
+* [Making attendees feel at home](#making-attendees-feel-at-home)
+* [Children](#children)
+* [Speakers](#speakers)
+* [Ticket sales](#ticket-sales)
+* [Team](#team)
+* [Recordings](#recordings)
+* [Other](#other)
+
+---
 
 ## Inclusivity
 - The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity is not exclusively about gender.
