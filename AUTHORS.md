@@ -15,3 +15,4 @@ The following people have also contributed to the list:
 - Adam Dinwoodie (@me-and)
 - @elliewix
 - Lacey Williams Henschel (@williln)
+- Alex Chan (@alexwlchan)

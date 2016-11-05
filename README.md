@@ -101,7 +101,7 @@ Make sure that your quiet room is in a place that's easily and discretely access
 - Remember to get all your speakers a modest speaker gift at the conference, regardless of the size of the speaker package.
 - Some people strongly prefer to share a hotel room with someone, others strongly prefer a private room. If you arrange hotel rooms for your speakers, you can always ask whether anyone would like to share. This works particularly well when many speakers know each other already. Sharing rooms reduces your costs. Do ensure that you always keep the option open for people to have a private room, without extra cost, for those that need the personal space or need a private room for other reasons.
 - Consider the diversity of your speakers, particularly your keynote speakers, and the message that sends to (potential) conference attendees. If all your keynotes are being given (or appear to be being given) by the dominant demographic in your community, that can make your conference and community look like it excludes others, however welcoming it is in practice.
-
+- Before you introduce a speaker, make sure to ask what name they prefer, how to pronounce it, and what pronouns they use – even if it seems obvious. It‘s jarring for the speaker if you get this wrong just before they go on stage.
 
 ## Ticket sales
 
