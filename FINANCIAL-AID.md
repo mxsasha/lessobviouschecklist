@@ -80,6 +80,18 @@ More importantly, people might be very private about their exact situation, beca
 
 In other words, if you are asking people which exact group they belong to, you are asking some of them to endanger their income, social situation, or even their life. At best, you are making them feel uncomfortable. And although this does not apply to everyone, these dangers are probably more common in people that are already underrepresented in multiple other ways.
 
+## On timing
+
+There are two important concerns about timing: announcing the results on time, and when grant recipients will receive their refund.
+
+Flights and accomodation become more expensive and less available as the date of your event nears. If you announce your results too late, the costs for your grant recipients will go up. This means they may need extra funds, draining your budget, or will no longer be able to come.
+
+Some conferences only pay back grant recipients at the actual conference. This makes the program inaccessible to people who can't cover such a large sum so far in advance. However, if you simply transfer the funds in advance, that can increase the risk of fraud. A middle ground that we chose for Django Under the Hood is refunding people as soon as we have proof of booking of their flight or accomodation. Our process ensured that they nearly always received these funds within one week. This limits the time during which they have to cover the cost. In exceptional cases, where even this was not possible for the recipient, we were able to find a community member to confirm the recipient was legit, and transferred the funds in advance.
+
+Be mindful that in rare cases, a grant recipient may not be able to come to your event after all. They might fall ill, or urgently need to take care of someone else, or may be rejected entry into the country despite having a valid visa and all paperwork. This disproportianally affects people who are underrepresented in multiple ways, particularly people of colour. Only refunding the grant to people who manage to come to the conference, means these people have very high unexpected costs. This is not a concern with the model we used for Django Under the Hood.
+
+Generally, under no condition should you require attendees to commit to costs until they are sure you will to refund those costs to them (up to the limit of their grant).
+
 ## Be open about your selection process
 
 Most aid programs get more applications than they can grant. So there needs to be some kind of selection process. When scoring applications for Django: Under the Hood in the past, the basic question for me was: _How can we maximise the impact on the applicants, their local community, our community in general and people in general, within the limited resources available to us?_
