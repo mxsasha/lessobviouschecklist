@@ -108,7 +108,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - *Train* the people doing introductions. Often they are volunteers who aren't used to public speaking. They should be clear, loud enough to hear, say something about the speaker, and invite a round of applause. Train them in microphone use too. A good introduction should make the speaker and the audience feel positive and ready to go. linux.conf.au has taken to asking specifically for people willing to do introductions as a separate role from conference volunteers in general, which does help to achieve good, positive introductions.
 - Q&A at the end of a talk is notorious for attracting questions meant to embarras the speaker, or make long statements - although sometimes it goes well. However, it is still often questionable how useful the Q&A part was for all the other attendees that sat and watched. You could decide not to do a Q&A and just tell people to come to the speaker. However, if you do Q&A, at least make sure to cut people off that say "this isn't really a question but more of a comment" or who seem to be just making comments.
 
-## Ticket sales
+## Tickets
 
 - If you have a limited amount of tickets and expect to sell out quickly, limit the number of tickets per purchase. That’ll give everyone a fair chance, and help get a mixed group of attendees, instead of a small number of companies buying out all the tickets.
 - When deciding when to open ticket sales, consider different time zones. 11:00 in Europe means Americans would have to wake up in the night to get tickets. 15:00 UTC often works fairly well for Europe and America, but not as good for Asia. You can sell in multiple batches at different times of day to give people from either region a chance.
@@ -121,6 +121,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - Consider using a specialised ticket sales service. Organisers in the Python and Django community have had good experiences with [EventBrite](https://www.eventbrite.com/), [DoAttend](http://doattend.com/), [Paydro](http://paydro.net/) and [Tito](http://ti.to). You can ask whether they'd be willing to sponsor by waiving some of their fees.
 - Consider having staggered ticket pricing. Give a discount for early bird sales and charge a premium the closer the tickets are bought to the event dates. This can result in more sales early on, giving you a better picture of attendance.
 - Consider having a limited number of tickets available at the spot, possibly at a significant premium. This incentivises normal ticket sales, but still allows for people who couldn't plan ahead dues to other life events.
+- Do not ask people to bring an government ID that matches their ticket. Some people, including many trans people, are unable to obtain a government ID in their correct name. Even if you are more flexible in practice, having this as a general policy is trans-exclusionary. If you'd like more security at your registration desk, offer the choice of bringing either a government ID with name matching ticket, or showing a print/screenshot of the ticket. Be clear that people can choose either option.
 
 ## Team
 
