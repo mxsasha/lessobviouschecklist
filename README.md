@@ -83,6 +83,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - Many communities have in-jokes and amusing traditions. There’s nothing wrong with that, but it can make first-timers feel more alienated. You can reduce this by [publishing a glossary](https://2016.djangocon.eu/glossary/) of some of these things.
 - Don’t publish attendees’ info on an attendee list or something similar, without them opting in.
 - Make sure the organisers are visible. If you have a registration desk, try to have someone there all the time. If an attendee needs help, it can make them feel very lost if they can’t find an organiser.
+- Discourage clique forming, and make first-timers feel much more welcome, by encouraging your attendees to follow the [Community++ rule](http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/) and the [Pac-Man rule](http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/#pac-man-rule).
 
 ## Children
 
