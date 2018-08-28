@@ -100,7 +100,7 @@ I liked to look at:
 
 * To what extent will letting this person attend have a further impact on our community? For example, I’d score someone who essentially wrote “I will help my company make more money” lower than someone who is more active in their local community.
 * Social impact can be a part too: I’d score “I use Django to help this bank I work for become richer” lower than “I work with Django as part of a project to help addicted homeless people towards recovery”.
-* Where is this person from? If they would take a large budget, but live in an area that has many other conferences closer by, that may be a better choice. So all other things being equal, I would rather spend € 1000 on an attendee from Kenia than from New York.
+* Where is this person from? If they would take a large budget, but live in an area that has many other conferences closer by, that may be a better choice. So all other things being equal, I would rather spend € 1000 on an attendee from Kenya than from New York.
 * To what extent does this person have a skill level that lets them benefit from this conference? (In 2015, DUTH was aimed very much at developers with some Django experience already, so it would not be the best place for someone without any experience.)
 * Are they making an effort? For example, if you can’t even estimate the price of your flight (we do suggest using Google Flights) without further explanation, I’m assuming you couldn’t be bothered to search.
 
