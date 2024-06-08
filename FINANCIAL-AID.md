@@ -8,7 +8,7 @@ The financial aid will typically cover anywhere between a free ticket, to a tick
 
 It’s incredibly valuable to help people, who might otherwise not be able to attend a conference, so it’s great that so many conferences do this. However, having looked at and asked questions about many of these programs, I developed some thoughts on improvements that could be made. I want to expand this into a wider guide to financial aid, but these are the most common issues I see.
 
-These ideas are suggestions. They may not work for all conferences, and you may have good reasons to deviate. Not even my conferences follow all of this currently. Most importantly, this is not meant as _you are doing financial aid wrong and are bad people_, but only as _it’s great that you have a financial aid program, here are a few suggestions_. I assume everyone runs these programs with the best intentions, even if something is not ideal, and encourage you to approach these programs and organisers in that same spirit. I focus a lot on aid programs aimed at underrepresented groups, as these seem to be the most common.
+These ideas are suggestions. They may not work for all conferences, and you may have good reasons to deviate. I assume everyone runs these programs with the best intentions, even if something is not ideal, and encourage you to approach these programs and organisers in that same spirit. I focus a lot on aid programs aimed at underrepresented groups, as these seem to be the most common.
 
 ## Asking for help is hard
 
@@ -31,11 +31,11 @@ It is common for conferences to use their financial aid as a tool to improve div
 
 > Anyone from an underrepresented group in tech is invited to apply for this scholarship. This includes, but is not limited to: women, people of colour, LGBTQIA+ people, disabled people, and people facing economic or social hardships.
 
-Although this is done with the best intentions, here’s my issue with this text: could you tell me who the other underrepresented groups are that are invited? Are people with mental illnesses included, and classed under disabled? Are refugees included? People over 50? People who have never worked with the platform the conference focuses on before? People who are doing a career switch? People who have children that increase costs and make planning harder? People whose parents depend upon them? People who can work, but have high medical costs?
+Although this is done with the best intentions, here’s my issue with this text: could you tell me who the other underrepresented groups are that are invited? Are people with mental health issues included, and classed under disabled? Are refugees included? People over 50? People who have never worked with the platform the conference focuses on before? People who are doing a career switch? People who have children that increase costs and make planning harder? People whose parents depend upon them? People who can work, but have high medical costs?
 
 Knowing whether some aspect of you is underrepresented can be hard to determine, especially in aspects that are not easily visible. And there’s more: assuming people with mental illness are included under disabled, when do they qualify? Does it need to have a serious impact on your daily life? Do you need a formal diagnosis from a doctor? If you’re genderqueer, but do not currently present differently from your assigned gender, are you included in the LBGTQIA+? Who is included in that plus? What if you’re not even sure yourself about your identity?
 
-For [Django: Under the Hood 2016](https://www.djangounderthehood.com), we tried to improve on this with the following text, inspired from [AlterConf](http://alterconf.com):
+For [Django: Under the Hood 2016](https://2016.djangounderthehood.com), we tried to improve on this with the following text, inspired from [AlterConf](http://alterconf.com):
 
 *Anyone from an underrepresented group in tech is invited to apply for this scholarship. This includes, but is not limited to*:
 * *women and other gender minorities of all expressions and identities; e.g. trans, agender and non-binary*
@@ -54,19 +54,19 @@ For [Django: Under the Hood 2016](https://www.djangounderthehood.com), we tried 
 * *people who have experienced trauma and its aftermath (PTSD, anxiety, etc)*
 * *people living with or recovering from substance abuse*
 
-This doesn’t address *all* these questions yet, and I really want to improve on this next year. But it is a lot more explicit than the shorter list. Note that we haven’t actually changed our target group: we already meant to include all these people. All of them were already welcome to apply. However, I seriously doubt any refugees, caregivers or neurodiverse people would have applied with our briefer text.
+This doesn’t address *all* these questions entirely, but it is a lot more explicit than the shorter list. Note that we haven’t actually changed our target group: we already meant to include all these people. All of them were already welcome to apply. However, I seriously doubt any refugees, caregivers or neurodiverse people would have applied with our briefer text.
 
 The more explicit you can be, the better. If someone is part of a group that you haven’t explicitly mentioned, as much as you intend to include them, you raise a much higher barrier for them to apply.
 
-It’s fine to have a different target group, or to not limit on target group at all. Some conferences run aid programs exclusively for women (in that case I recommend being explicit on your stance on trans women and genderqueer people) or entirely different groups. Do make sure you are consistent: if you say in one place that your program is for women, and in another place have a more extensive list, there is a fair chance many non-women won’t feel welcome to apply.
+It’s fine to have a different target group, or to not limit on target group at all. Some conferences run aid programs exclusively for women (in which case you should be specific regarding inclusion of trans and non-binary people) or entirely different groups. Do make sure you are consistent: if you say in one place that your program is for women, and in another place have a more extensive list, there is a fair chance many non-women won’t feel welcome to apply.
 
 Whichever target group you choose, be it anyone interested in attending or a much more specific group, be explicit, expansive, and consistent.
 
 ## Be mindful of excluding people with your requirements
 
-Some aid programs include accommodation, and expect applicants to share their rooms with other applicants of the same gender. That makes complete sense from a cost perspective: with the same budget, you can provide aid to more people, and have a bigger impact on the community. 
+Some aid programs include accommodation, and expect applicants to share their rooms with other applicants of "the same gender". That makes complete sense from a cost perspective: with the same budget, you can provide aid to more people, and have a bigger impact on the community. 
 
-However, it can also lead to unintentional exclusion of some people that are explicitly part of your target group. For example, some neurodiverse people are unable to share rooms, as they need their private space to withdraw into. If you require room sharing, these people can not participate. I’m also unsure how same-sex room sharing would work for genderqueer and non-binary people.
+However, it can also lead to unintentional exclusion of some people that are explicitly part of your target group. For example, some neurodiverse people are unable to share rooms, as they need their private space to withdraw into, or have other specific access needs. If you require room sharing, these people can not participate. It also creates weird situations for trans and non-binary people.
 
 This doesn’t mean you can’t share any rooms: it’s perfectly fine to suggest it. However, be mindful in how you communicate: people should feel comfortable saying they need a private room, and this should be an option in your application form. If this is only possible after raising the issue by e-mail, for example, these applicants are more likely to just skip their application.
 
@@ -76,9 +76,9 @@ If your aid program is aimed at underrepresented groups, it may make sense to as
 
 First of all, you usually can’t actually screen whether people are eligible this way. Typically the target group includes aspects that you can’t check, like invisible health issues or being LGBTQIA+. Therefore, anyone applying in bad faith could just lie.
 
-More importantly, people might be very private about their exact situation, because this information coming out can have serious consequences for their life. Most cis women aren’t secretive about their gender. But some people live in countries where they can be executed for their sexuality. Some depend financially on transphobic parents. In many countries, your health status can make it hard for you to keep or find work. People living with substance abuse could be fired. Some people might feel shame for their situation, such as people experiencing poverty.
+More importantly, people might be very private about their exact situation, because this information coming out can have serious consequences for their life. Some people live in countries where they can be persecuted for their identity, or depend on others from whom they must hide their identity. In many countries, your health status can make it hard for you to keep or find work. Some people might feel shame for their situation, such as people experiencing poverty.
 
-In other words, if you are asking people which exact group they belong to, you are asking some of them to endanger their income, social situation, or even their life. At best, you are making them feel uncomfortable. And although this does not apply to everyone, these dangers are probably more common in people that are already underrepresented in multiple other ways.
+In other words, if you are asking people which exact group they belong to, you are asking some of them to put themselves in danger. At best, you are making them feel uncomfortable. And although this does not apply to everyone, these dangers are probably more common in people that are already underrepresented in multiple other ways.
 
 ## On timing
 
@@ -88,7 +88,7 @@ Flights and accomodation become more expensive and less available as the date of
 
 Some conferences only pay back grant recipients at the actual conference. This makes the program inaccessible to people who can't cover such a large sum so far in advance. However, if you simply transfer the funds in advance, that can increase the risk of fraud. A middle ground that we chose for Django Under the Hood is refunding people as soon as we have proof of booking of their flight or accomodation. Our process ensured that they nearly always received these funds within one week. This limits the time during which they have to cover the cost. In exceptional cases, where even this was not possible for the recipient, we were able to find a community member to confirm the recipient was legit, and transferred the funds in advance.
 
-Be mindful that in rare cases, a grant recipient may not be able to come to your event after all. They might fall ill, or urgently need to take care of someone else, or may be rejected entry into the country despite having a valid visa and all paperwork. This disproportianally affects people who are underrepresented in multiple ways, particularly people of colour. Only refunding the grant to people who manage to come to the conference, means these people have very high unexpected costs. This is not a concern with the model we used for Django Under the Hood.
+Be mindful that in rare cases, a grant recipient may not be able to come to your event after all. They might fall ill, or urgently need to take care of someone else, or may be rejected entry into the country despite having a valid visa and all paperwork. This disproportianally affects people who are underrepresented in multiple ways. Only refunding the grant to people who manage to come to the conference, means these people have very high unexpected costs. This is not a concern with the model we used for Django Under the Hood.
 
 Generally, under no condition should you require attendees to commit to costs until they are sure you will to refund those costs to them (up to the limit of their grant).
 
@@ -112,7 +112,6 @@ Your conference might have other priorities. Perhaps students and teachers are i
 
 ## Further reading
 
-* [Everything I’ve learned about running a financial aid program](https://www.lvh.io/posts/everything-ive-learned-about-running-a-financial-aid-program.html)
 * [Diversity Tickets](https://diversitytickets.org)
 * [PyCon UK’s financial aid docs](http://pyconuk-2016-internaldocs.readthedocs.io/en/latest/financial-aid/)
 
