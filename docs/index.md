@@ -1,28 +1,22 @@
 # The Less Obvious Conference Checklist
 
-This is a checklist of less obvious things for conference organisers that help build amazing, wonderful, welcoming and inclusive events. It’s easy to remember to book a venue, look for speakers and sell the tickets, but you could overlook many small things that can help your conference stand out. I mainly compiled this list from my own experience and from what I’ve seen other conferences do. So although I compiled the list, many recommendations are the result of hard work of others. See the AUTHORS file for a more extensive attribution.
+This is a checklist of less obvious things for conference organisers that help build amazing, wonderful, welcoming and inclusive events. It’s easy to remember to book a venue, look for speakers and sell the tickets, but you could overlook many things that can help your conference stand out. I mainly compiled this list from my own experience and from what I’ve seen other conferences do. So although I compiled the list, many recommendations are the result of hard work of others. See the AUTHORS file for a more extensive attribution.
 
-This is not a checklist of things you must do in order for your conference to be any good. Or a list of requirements for me to do something for your conference. Consider this more as a list of actionable and practical suggestions to help us make better conferences. **Don’t feel bad if there are quite some that you can't do: I don’t know of a single conference that follows every single suggestion from this list** - not even the ones I organise myself.
+This is not a checklist of things you must do in order for your conference to be any good. Or a list of requirements for me to do something for your conference. Consider this more as a list of actionable and practical suggestions to help us make better conferences. You will probably not be able to follow every single suggestion, and that's fine.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Generic License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ### Contents
+{:.no_toc}
 
-* [Inclusivity](#inclusivity)
-* [Accessibility](#accessibility)
-* [Code of conduct](#code-of-conduct)
-* [Making attendees feel at home](#making-attendees-feel-at-home)
-* [Children](#children)
-* [Speakers](#speakers)
-* [Ticket sales](#ticket-sales)
-* [Team](#team)
-* [Recordings](#recordings)
-* [Other](#other)
+* TOC marker
+{:toc}
 
 ---
 
 ## Inclusivity
-- The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity is not exclusively about gender.
+The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity has many dimensions, beyond just gender.
+
 - If you are running a financial grant program, I wrote a separate document about [some common issues I see](https://lessobvious.cc/financial-aid.html).
 - For events involving alcohol, help people who do not drink feel welcome. Mention non-alcoholic drinks as often as alcoholic drinks, make them equally visible and have an equal number of options. People who don’t drink alcohol should never have to justify themselves. When you announce the event, mention that the Code of Conduct applies, people are responsible for their own alcohol use, and pushing others to drink is not acceptable. [I have a longer article on this](https://medium.com/@mxsash/how-to-build-a-better-alcohol-culture-at-your-tech-conferences-and-events-9e1cce7179c0) with more concrete suggestions, and [this MVC article](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) has many more great practical tips.
 - If you are providing food, ask people in advance (during ticket registration, for example) about any preferences / allergies. Personally, I've always been able to accommodate every option. It's often easy to compose a menu that does actually work for 90% of the attendees, and venues are usually fine with making custom special meals for a smaller group.
@@ -70,7 +64,6 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Gener
 - For more about CoC enforcement, see this [overview of CoC warning signs](https://otter.technology/blog/2017/12/28/code-of-conduct-enforcement-warning-signs/) by Sage Sharp.
 
 ## Making attendees feel at home
-
 - In general, use all your communication to make attendees feel welcome. At Django Under The Hood, we had posters with “Yay, you made it!” on all the entrances. Even [minor touches like that](https://archive.is/0RkSa) can help create a good atmosphere at your conference. It's simple but really makes a difference in the vibe.
 - Basic bathroom supplies are much harder to find in an unknown country and area. At DUTH 2015 and [DjangoCon Europe 2016](https://archive.is/8sG1n) there were boxes near the bathrooms with items like toothbrushes and hygiene products, free to take as needed by all attendees. It makes people feel more welcome, and provides a lot of benefit for little effort. If you're able to provide people with over-the-counter drugs like painkillers, that's great too. However, don't place those in publicly accessible boxes, in case children get to them. You can post a note that they're available at your registration desk.
 - The city where you’re holding your conference is probably well known to you. This is not the case for most of your visitors. Help your attendees find their way around by writing something about travelling to and around the conference. [Here’s what I wrote for Django Under the Hood](http://2016.djangounderthehood.com/travel/). Which airport should people go to? How do they best get to the city? How do they get from hotels to the venue? Can I buy transit tickets with a credit card? Do I need a visa? Is there a nearby supermarket?
