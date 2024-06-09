@@ -131,6 +131,23 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - Ensure that you’ve obtained permission from all your speakers for recording them. Many conferences include this in the call for papers.
 - If you are uploading talk recordings to services like YouTube that allow comments on videos, ensure the comments are moderated or disabled. Otherwise, you risk [harassing comments being made](https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/), at any time after the conference, when your team is also probably less available.
 
+## Footprint
+
+- Announce alternatives to flying early: people may book cheap plane tickets right away when your conference dates are announced.
+- Inspire people to alternatives to flying. For example, [a nice guide to train travel](https://blog.rustfest.eu/pre-post-conf-events-sustainable-train-travels) or a coordinated online space for ride sharing. Definitely avoid: only documenting how people can get to your event by airplane.
+- Tell your venue that you care about the environment and ask them what they can offer.
+- You can reduce waste, even be zero waste: ask your venue to accommodate durable and reusable food containers: Porcelain, glass, metal etc. Provide water fountains over piles of plastic bottles
+- Serve locally sourced, organic food. Your guests might enjoy both the cultural experience of local food, as well as organic and healthy food. You could offer only vegetarian food.
+- If using disposable food containers, go for biodegradable. Provide people easy options to tag their cups to drink from the same cup all day. But never compromise reuse with hygiene.
+- Make merchandise optional. If possible, hire someone to do print-on-demand merchandise or coordinate pre-ordering of conference merchandise.
+- If your conference is a recurring event, try avoiding to put date and year-specific marks on roll-ups banners etc. that might be reused for subsequent events.
+- Recommend local green transportation: how to go by bike, get public transport etc.
+- Don't sacrifice accessibility for this. For example, encouraging people to bike or walk is great, but not everyone is able to. The same goes for different travel options.
+
+There are many background resources on the environmental footprint of conferences, for instance:
+
+* [A breakdown of Wikimania's 2019 Carbon offsets](https://wikimania.wikimedia.org/wiki/2019:Carbon_offsetting), listing air travel as >80% of the conference's footprint.
+
 ## Other
 
 - If your community uses social media a lot, keep a stream of informing tweets going from your conference accounts. Just before lunch, tweet a reminder of where lunch is served and what people with special dietary needs should do. In the early morning, tweet when the first talk will start that day. If you change locations, tweet a reminder in the evening and the morning with instructions on how to get to the new location. During the afternoon, a reminder about the party that night. It’s hard to stay on top of this during the conference, so at DUTH 2015 I scheduled about 30 tweets in advance in a scheduling tool. Just remember to update them if your schedule changes.
