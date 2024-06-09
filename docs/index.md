@@ -15,6 +15,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Gener
 ---
 
 ## Inclusivity
+
 The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity has many dimensions, beyond just gender.
 
 - If you are running a financial grant program, I wrote a separate document about [some common issues I see](https://lessobvious.cc/financial-aid.html).
@@ -22,8 +23,7 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - If you are providing food, ask people in advance (during ticket registration, for example) about any preferences / allergies. Personally, I've always been able to accommodate every option. It's often easy to compose a menu that does actually work for 90% of the attendees, and venues are usually fine with making custom special meals for a smaller group.
 - Be mindful of how you identify the geographic region for the conference. DjangoCon Europe is notably not DjangoCon EU, because EU would mean we can’t have one in Switzerland. Communicate consistently on this.
 - Be very careful in how you describe your target group. If you use phrases like “advanced developers”, many people will not attend because they won’t feel advanced enough, or because they feel more like tech writers than developers. Also be mindful of terms like [technical and non-technical](http://web.archive.org/web/20160412105147/http://anna-oz.tumblr.com/post/142527358160/people-are-people-contributions-are-contributions).
-- You can help make transgender people feel more at home with [posters stressing attendees shouldn’t judge who is using which bathroom](https://archive.is/kxqhI).
-- Look into gender diverse people feel more at home with explicitly all gender bathrooms. You may not want to replace all gendered bathrooms though. This may also be helpful for parents and for other trans people. If your event has multiple toilet blocks, you could mark bathrooms on some floors "all gender". 
+- You can help make transgender people feel more at home with [posters stressing attendees shouldn’t judge who is using which bathroom](https://archive.is/kxqhI). Even better if you can also add explicitly all gender bathrooms. You may not want to replace all gendered bathrooms though. This may also be helpful for parents and for other trans people. If your event has multiple toilet blocks, just mark bathrooms in some as "all gender". 
 - Whenever you ask for people’s names, don’t ask for a first and last name. Not everyone has a clear first and last name, and there is little reason to want to separate them. When you ask for names, ask how they would like to be called in a single field. If needed, add a separate field for their legal name. You’ll probably need the latter if you are making hotel reservations for people, for example.
 - Some people, especially those new to attending events, may be uncertain about the dress code. It’s worth specifying this explicitly, even if your entire dress code is “wear whatever you’re comfortable with, as long as it does not violate the code of conduct”. 
 - Some ways to improve inclusivity may seem odd or useless to you as organisers. However, they can often make a big difference for other attendees in different positions and from different backgrounds, at little cost to you.
@@ -31,8 +31,8 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - For an excellent wider overview of steps to take around inclusivity, see [“Help! someone has pointed out my conference has diversity issues! How do I fix this?”](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by Ada Rose Cannon.
 
 ## Accessibility
-- Write an accessibility statement. I wrote one for [PyCon UK](https://2023.pyconuk.org/venue/) and [DjangoCon Europe 2023](https://2023.djangocon.eu/inclusion/) have good examples. In this statement, you inform people with disabilities or impairments, what you can offer them, what obstacles may be present, and what alternatives you can provide. The purpose is to inform people what you are planning to do, what you do and don’t know, and that you’re happy to listen to anyone’s questions in this area.
-- Have this published early on. If you publish it after early bird pricing closes, you're basically making disabled people pay more.
+- Write an accessibility statement. [PyCon UK](https://2023.pyconuk.org/venue/) and [DjangoCon Europe 2023](https://2023.djangocon.eu/inclusion/) have good examples. In this statement, you inform people with disabilities or impairments, what you can offer them, what obstacles may be present, and what alternatives you can provide. The purpose is to inform people what you are planning to do, what you do and don’t know, and that you’re happy to listen to anyone’s questions in this area.
+- Have the accessibility statement published early on. If you publish it after early bird pricing closes, you're basically making disabled people pay more.
 - Provide the simplest way of access for inquiries - an email address. Forms and too many detailed questions might be inaccessible and/or put people off.
 - For people with reduced mobility, be specific about the actual situation. Some people that use wheelchairs can actually cross a few steps if needed. Some require specific accessible toilets, others do not. A generic term like “wheelchair accessible” leaves many questions for these people. Providing photos is great.
 - Ask (optional) for any accessibility needs in ticket registration, so you can anticipate. However, this never covers all cases, as needs can change.
@@ -44,9 +44,10 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - It’s easy for people to feel overwhelmed by the social interactions, sound level and business at conferences. A quiet room, which is a (somewhat) noise insulated room where there is no talking, can give these attendees a chance to decompress. It’s also a good place for people that need to focus on some work. All you need is a room with some chairs/desks/beanbags. Make sure that your quiet room is in a place that's easily accessible.
 - Plan for signs to guide people without overwhelming them. Design them well ahead with a consistent color scheme and the conference logo. Depending on your venue layout, it can be worth it to invest in stands to place them in the best position, rather than stick them to a wall.
 - Earlier in the conference, have some extra volunteers around to guide people. That will also help you discover where you need to fix up your signage.
-- Publish details of your health/covid policy. Is masking expexted? Required? Vaccinations? Document this clearly and early. Harassing someone for wearing a mask should always be treated as a CoC violation. See [PyCon UK](https://2023.pyconuk.org/health/) for an example.
+- Publish details of your health/covid policy. Is masking expected? Required? Vaccinations? Document this clearly and early. Harassing someone for wearing a mask should always be treated as a CoC violation. See [PyCon UK](https://2023.pyconuk.org/health/) for an example.
 
-## Code of conduct
+## Code of Conduct
+
 - Have a code of conduct / inclusivity policy. There are [plenty of examples](https://2018.djangocon.eu/conduct/) for this. Most of them can be summarised as “don’t be an asshole, and be considerate for how your actions may be perceived by others” but for numerous reasons that have been discussed at length elsewhere, it is important to include more detail.
 - Ensure the CoC is known to everyone. This ensures nobody can say “I didn’t know” and also stresses to your attendees how important it is to you. Make people confirm knowing the CoC when they buy a ticket, or submit the call for papers. Have posters around the venue with a short version and mention it in your introduction talks every day.
 - Parties are notorious for CoC violations, often related to alcohol. Stress in your announcements by mail, twitter or in person, that the CoC applies to the party too. When you make your event more accessible to people that don’t drink alcohol, as listed above, you are also making it easier for other attendees to drink moderately and responsibly. People are more inclined to keep drinking more if everyone around them is still drinking alcohol too.
@@ -64,6 +65,7 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - For more about CoC enforcement, see this [overview of CoC warning signs](https://otter.technology/blog/2017/12/28/code-of-conduct-enforcement-warning-signs/) by Sage Sharp.
 
 ## Making attendees feel at home
+
 - In general, use all your communication to make attendees feel welcome. At Django Under The Hood, we had posters with “Yay, you made it!” on all the entrances. Even [minor touches like that](https://archive.is/0RkSa) can help create a good atmosphere at your conference. It's simple but really makes a difference in the vibe.
 - Basic bathroom supplies are much harder to find in an unknown country and area. At DUTH 2015 and [DjangoCon Europe 2016](https://archive.is/8sG1n) there were boxes near the bathrooms with items like toothbrushes and hygiene products, free to take as needed by all attendees. It makes people feel more welcome, and provides a lot of benefit for little effort. If you're able to provide people with over-the-counter drugs like painkillers, that's great too. However, don't place those in publicly accessible boxes, in case children get to them. You can post a note that they're available at your registration desk.
 - The city where you’re holding your conference is probably well known to you. This is not the case for most of your visitors. Help your attendees find their way around by writing something about travelling to and around the conference. [Here’s what I wrote for Django Under the Hood](http://2016.djangounderthehood.com/travel/). Which airport should people go to? How do they best get to the city? How do they get from hotels to the venue? Can I buy transit tickets with a credit card? Do I need a visa? Is there a nearby supermarket?
@@ -77,14 +79,6 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - Don’t publish attendees’ info on an attendee list or something similar, without them opting in.
 - Make sure the organisers are visible. If you have a registration desk, try to have someone there all the time. If an attendee needs help, it can make them feel very lost if they can’t find an organiser.
 - Discourage clique forming, and make first-timers feel much more welcome, by encouraging your attendees to follow the [Community++ rule](http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/) and the [Pac-Man rule](http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/#pac-man-rule).
-
-## Children
-
-- Consider offering childcare, to make the event more accessible to parents. [PyCon](https://us.pycon.org/2020/childcare/) has done this in the past. You could poll whether attendees might be interested, and see if it would be affordable for the parents. There can be legal requirements involved.
-- If many of your attendees travel longer distances, the travel costs for a child would still be substantial for the parents, and it would take them extra effort and planning. Therefore, another option is to offer to cover costs of childcare at home. If most of your attendees are local, this is less of a concern.
-- In general, be explicit about whether children are welcome at your event and in which settings, and which kinds of food you can provide for them.
-- Some attendees may need to breastfeed or pump breastmilk. The best is to have a space planned for attendees for this purpose, and document who to make space requests to. Ideally, this space would be near the childcare room. At a minimum, the space just needs to be clean, private, and have electricity. Include access to a refrigerator or mini-fridge if that is an option. Most event spaces (or HR departments, if the event is in an office space) are used to handling these sort of inquiries.
-- Be explicit in that the private breastfeeding room is an optional service, and that feeding is allowed wherever and whenever the attendee likes. Otherwise attendees may think this is only allowed in private spaces. The private space is still needed, as some attendees may be more comfortable in private, and not every child will nurse near noise and traffic.
 
 ## Speakers
 
@@ -117,12 +111,6 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - Consider having a limited number of tickets available at the spot, possibly at a significant premium. This incentivises normal ticket sales, but still allows for people who couldn't plan ahead dues to other life events.
 - Do not ask people to bring an government ID that matches their ticket. Some people, including many trans people, are unable to obtain a government ID in their correct name. Even if you are more flexible in practice, having this as a general policy is exclusionary. If you'd like more security at your registration desk, offer the choice of bringing either a government ID with name matching ticket, or showing a print/screenshot of the ticket. Be clear that people can choose either option.
 
-## Team
-
-- Do not run a conference on your own. It’s a lot of work, and you need to have other people around that can relieve you of some tasks if it’s really needed, and help to find the inspiration you'll need.
-- Make sure to have some silent way of communicating across the entire team, that offers push messages too. A Slack, for example. There will be unforeseen issues, and being able to communicate within the team is essential.
-- If you have volunteers outside of the main team that help you with registration, goodie bag sorting, or anything else, don’t forget to thank them for their work. Even a private word of appreciation can make a difference.
-
 ## Recordings
 
 - If you are making recordings, make sure you have at least have a dedicated person for this, but ideally hire a professional.
@@ -131,6 +119,14 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - Not all attendees might be comfortable being recorded or photographed. Many conferences offer two different colour lanyards, where a particular color indicates that attendee does not want to be photographed or recorded. When you ask people which colour they want at your registration desk, you’re also making everyone else aware of the significance of lanyard colours.
 - Ensure that you’ve obtained permission from all your speakers for recording them. Many conferences include this in the call for papers.
 - If you are uploading talk recordings to services like YouTube that allow comments on videos, ensure the comments are moderated or disabled. Otherwise, you risk [harassing comments being made](https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/), at any time after the conference, when your team is also probably less available.
+
+## Children
+
+- Consider offering childcare, to make the event more accessible to parents. [PyCon](https://us.pycon.org/2020/childcare/) has done this in the past. You could poll whether attendees might be interested, and see if it would be affordable for the parents. There can be legal requirements involved.
+- If many of your attendees travel longer distances, the travel costs for a child would still be substantial for the parents, and it would take them extra effort and planning. Therefore, another option is to offer to cover costs of childcare at home. If most of your attendees are local, this is less of a concern.
+- In general, be explicit about whether children are welcome at your event and in which settings, and which kinds of food you can provide for them.
+- Some attendees may need to breastfeed or pump breastmilk. The best is to have a space planned for attendees for this purpose, and document who to make space requests to. Ideally, this space would be near the childcare room. At a minimum, the space just needs to be clean, private, and have electricity. Include access to a refrigerator or mini-fridge if that is an option. Most event spaces (or HR departments, if the event is in an office space) are used to handling these sort of inquiries.
+- Be explicit in that the private breastfeeding room is an optional service, and that feeding is allowed wherever and whenever the attendee likes. Otherwise attendees may think this is only allowed in private spaces. The private space is still needed, as some attendees may be more comfortable in private, and not every child will nurse near noise and traffic.
 
 ## Footprint
 
@@ -148,6 +144,12 @@ The importance of inclusivity is becoming well known in most communities. In gen
 There are many background resources on the environmental footprint of conferences, for instance:
 
 * [A breakdown of Wikimania's 2019 Carbon offsets](https://wikimania.wikimedia.org/wiki/2019:Carbon_offsetting), listing air travel as >80% of the conference's footprint.
+
+## Team
+
+- Do not run a conference on your own. It’s a lot of work, and you need to have other people around that can relieve you of some tasks if it’s really needed, and help to find the inspiration you'll need.
+- Make sure to have some silent way of communicating across the entire team, that offers push messages too. A Slack, for example. There will be unforeseen issues, and being able to communicate within the team is essential.
+- If you have volunteers outside of the main team that help you with registration, goodie bag sorting, or anything else, don’t forget to thank them for their work. Even a private word of appreciation can make a difference.
 
 ## Other
 
