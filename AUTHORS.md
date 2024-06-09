@@ -18,3 +18,5 @@ The following people have also contributed improvements to the list:
 - Alex Chan (@alexwlchan)
 - Kristian Glass (@doismellburning)
 - Martine Röll (@martinaroell)
+- Benjamin Bach (@benjaoming)
+- Chris Adams (@mrchrisadams)
