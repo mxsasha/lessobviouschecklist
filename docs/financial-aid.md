@@ -1,5 +1,7 @@
 # A few ideas on financial aid
 
+This is part of the [Less Obvious Conference Checklist](https://lessobvious.cc/).
+
 ## Introduction
 
 Many conferences now run a financial aid program (also called scholarships or grants) to help people attend who might otherwise not be able to, because they can’t afford to. It may be harder for them to afford to attend due to not having an employer that will cover costs, low or no income, having financial dependents, high health care costs, or many other reasons.
