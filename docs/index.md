@@ -31,7 +31,7 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - For an excellent wider overview of steps to take around inclusivity, see [“Help! someone has pointed out my conference has diversity issues! How do I fix this?”](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by Ada Rose Cannon.
 
 ## Accessibility
-- Write an accessibility statement. [PyCon UK](https://2023.pyconuk.org/venue/) and [DjangoCon Europe 2023](https://2023.djangocon.eu/inclusion/) have good examples. In this statement, you inform people with disabilities or impairments, what you can offer them, what obstacles may be present, and what alternatives you can provide. The purpose is to inform people what you are planning to do, what you do and don’t know, and that you’re happy to listen to anyone’s questions in this area.
+- Write an accessibility statement. [PyCon UK](https://2023.pyconuk.org/venue/) and [DjangoCon Europe 2023](https://2023.djangocon.eu/inclusion/) have good examples. In this statement, you inform people with disabilities or impairments, what you can offer them, what obstacles may be present, and what alternatives you can provide. The purpose is to inform people what you are planning to do, what you do and don’t know, and that you’re happy to listen to anyone’s questions in this area. [Including photos](https://ep2024.europython.eu/accessibility), especially when the route is a bit tricky, and floor plans is always a great addition.
 - Have the accessibility statement published early on. If you publish it after early bird pricing closes, you're basically making disabled people pay more.
 - Provide the simplest way of access for inquiries - an email address. Forms and too many detailed questions might be inaccessible and/or put people off.
 - For people with reduced mobility, be specific about the actual situation. Some people that use wheelchairs can actually cross a few steps if needed. Some require specific accessible toilets, others do not. A generic term like “wheelchair accessible” leaves many questions for these people. Providing photos is great.
@@ -45,6 +45,10 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - Plan for signs to guide people without overwhelming them. Design them well ahead with a consistent color scheme and the conference logo. Depending on your venue layout, it can be worth it to invest in stands to place them in the best position, rather than stick them to a wall.
 - Earlier in the conference, have some extra volunteers around to guide people. That will also help you discover where you need to fix up your signage.
 - Publish details of your health/covid policy. Is masking expected? Required? Vaccinations? Document this clearly and early. Harassing someone for wearing a mask should always be treated as a CoC violation. See [PyCon UK](https://2023.pyconuk.org/health/) for an example.
+
+Additional resources with many more great pointers:
+- [How to Make Your Events More Accessible and Inclusive](https://splashthat.com/blog/accessible-event-planning) by Cai Charniga.
+- [A Checklist for a Successful Accessible Conference](https://www.ifla.org/wp-content/uploads/2019/05/assets/lsn/publications/a_checklist_for_accessbiility_at_library_conferences_rev_2021.pdf) from IFLA.
 
 ## Code of Conduct
 
