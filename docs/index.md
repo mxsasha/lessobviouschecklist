@@ -19,7 +19,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Gener
 The importance of inclusivity is becoming well known in most communities. In general, remember that inclusivity has many dimensions, beyond just gender.
 
 - If you are running a financial grant program, I wrote a separate document about [some common issues I see](https://lessobvious.cc/financial-aid.html).
-- For events involving alcohol, help people who do not drink feel welcome. Mention non-alcoholic drinks as often as alcoholic drinks, make them equally visible and have an equal number of options. People who don’t drink alcohol should never have to justify themselves. When you announce the event, mention that the Code of Conduct applies, people are responsible for their own alcohol use, and pushing others to drink is not acceptable. [I have a longer article on this](https://medium.com/@mxsash/how-to-build-a-better-alcohol-culture-at-your-tech-conferences-and-events-9e1cce7179c0) with more concrete suggestions, and [this MVC article](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) has many more great practical tips.
+- For events involving alcohol, help people who do not drink feel welcome. Mention non-alcoholic drinks as often as alcoholic drinks, make them equally visible and have an equal number of options. People who don’t drink alcohol should never have to justify themselves. When you announce the event, mention that the Code of Conduct applies, people are responsible for their own alcohol use, and pushing others to drink is not acceptable. [I have a longer and more detailed article on this](https://medium.com/@mxsash/how-to-build-a-better-alcohol-culture-at-your-tech-conferences-and-events-9e1cce7179c0) with more concrete suggestions.
 - If you are providing food, ask people in advance (during ticket registration, for example) about any preferences / allergies. Personally, I've always been able to accommodate every option. It's often easy to compose a menu that does actually work for 90% of the attendees, and venues are usually fine with making custom special meals for a smaller group.
 - Be mindful of how you identify the geographic region for the conference. DjangoCon Europe is notably not DjangoCon EU, because EU would mean we can’t have one in Switzerland. Communicate consistently on this.
 - Be very careful in how you describe your target group. If you use phrases like “advanced developers”, many people will not attend because they won’t feel advanced enough, or because they feel more like tech writers than developers. Also be mindful of terms like [technical and non-technical](http://web.archive.org/web/20160412105147/http://anna-oz.tumblr.com/post/142527358160/people-are-people-contributions-are-contributions).
@@ -28,7 +28,11 @@ The importance of inclusivity is becoming well known in most communities. In gen
 - Some people, especially those new to attending events, may be uncertain about the dress code. It’s worth specifying this explicitly, even if your entire dress code is “wear whatever you’re comfortable with, as long as it does not violate the code of conduct”. 
 - Some ways to improve inclusivity may seem odd or useless to you as organisers. However, they can often make a big difference for other attendees in different positions and from different backgrounds, at little cost to you.
 - Promote your event towards relevant groups early and often, preferably from the moment of announcement on. This reduces the chance of rush action to "fix" a less diverse attendance/speakers roster.
-- For an excellent wider overview of steps to take around inclusivity, see [“Help! someone has pointed out my conference has diversity issues! How do I fix this?”](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by Ada Rose Cannon.
+
+Additional resources:
+- [How to build a better alcohol culture at your tech conferences and events](https://medium.com/@mxsash/) by me.
+- [“Help! someone has pointed out my conference has diversity issues! How do I fix this?”](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by Ada Rose Cannon.
+- [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options) by Kara Sowles.
 
 ## Accessibility
 - Write an accessibility statement. [PyCon UK](https://2023.pyconuk.org/venue/) and [DjangoCon Europe 2023](https://2023.djangocon.eu/inclusion/) have good examples. In this statement, you inform people with disabilities or impairments, what you can offer them, what obstacles may be present, and what alternatives you can provide. The purpose is to inform people what you are planning to do, what you do and don’t know, and that you’re happy to listen to anyone’s questions in this area. [Including photos](https://ep2024.europython.eu/accessibility), especially when the route is a bit tricky, and floor plans is always a great addition.
@@ -145,7 +149,7 @@ Additional resources with many more great pointers:
 - Recommend local green transportation: how to go by bike, get public transport etc.
 - Don't sacrifice accessibility for this. For example, encouraging people to bike or walk is great, but not everyone is able to. The same goes for different travel options.
 
-There are many background resources on the environmental footprint of conferences, for instance:
+Additional resources:
 
 * [A breakdown of Wikimania's 2019 Carbon offsets](https://wikimania.wikimedia.org/wiki/2019:Carbon_offsetting), listing air travel as >80% of the conference's footprint.
 
