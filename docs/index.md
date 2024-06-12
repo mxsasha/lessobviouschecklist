@@ -53,6 +53,7 @@ Additional resources:
 Additional resources with many more great pointers:
 - [How to Make Your Events More Accessible and Inclusive](https://splashthat.com/blog/accessible-event-planning) by Cai Charniga.
 - [A Checklist for a Successful Accessible Conference](https://www.ifla.org/wp-content/uploads/2019/05/assets/lsn/publications/a_checklist_for_accessbiility_at_library_conferences_rev_2021.pdf) from IFLA.
+- [ADA Checklist for Existing Facilities](https://www.adachecklist.org/doc/fullchecklist/ada-checklist.pdf) from the [New England ADA center](https://www.adachecklist.org/checklist.html). This is very extensive and aimed more at building owners in general, but highlights many obstacles you might otherwise not think of.
 
 ## Code of Conduct
 
