@@ -122,9 +122,9 @@ Additional resources with many more great pointers:
 
 ## Recordings
 
-- If you are making recordings, make sure you have at least have a dedicated person for this, but ideally hire a professional.
+- If you are making recordings or streaming, make sure you have at least have a dedicated person for this, but ideally hire a professional.
 - If you’re hiring someone to make photos or videos, make sure you carefully review the contract regarding intellectual property: by default the laws in many countries leave all rights with the creator you hired, even though you pay them.
-- Make sure you notify attendees in advance that recordings are being made.
+- Make sure you notify attendees in advance that the conference is being recorded and/or streamed.
 - Not all attendees might be comfortable being recorded or photographed. Many conferences offer two different colour lanyards, where a particular color indicates that attendee does not want to be photographed or recorded. When you ask people which colour they want at your registration desk, you’re also making everyone else aware of the significance of lanyard colours.
 - Ensure that you’ve obtained permission from all your speakers for recording them. Many conferences include this in the call for papers.
 - If you are uploading talk recordings to services like YouTube that allow comments on videos, ensure the comments are moderated or disabled. Otherwise, you risk [harassing comments being made](https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/), at any time after the conference, when your team is also probably less available.
