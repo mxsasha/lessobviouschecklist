@@ -56,7 +56,7 @@ Additional resources with many more great pointers:
 - [A Checklist for a Successful Accessible Conference](https://www.ifla.org/wp-content/uploads/2019/05/assets/lsn/publications/a_checklist_for_accessbiility_at_library_conferences_rev_2021.pdf) from IFLA.
 - [ADA Checklist for Existing Facilities](https://www.adachecklist.org/doc/fullchecklist/ada-checklist.pdf) from the [New England ADA center](https://www.adachecklist.org/checklist.html). This is very extensive and aimed more at building owners in general, but highlights many obstacles you might otherwise not think of.
 
-## Code of Conduct
+## Code of Conduct (CoC)
 
 - Have a code of conduct / inclusivity policy. There are [plenty of examples](https://2018.djangocon.eu/conduct/) for this. Most of them can be summarised as “don’t be an asshole, and be considerate for how your actions may be perceived by others” but for numerous reasons that have been discussed at length elsewhere, it is important to include more detail.
 - Ensure the CoC is known to everyone. This ensures nobody can say “I didn’t know” and also stresses to your attendees how important it is to you. Make people confirm knowing the CoC when they buy a ticket, or submit the call for papers. Have posters around the venue with a short version and mention it in your introduction talks every day.
