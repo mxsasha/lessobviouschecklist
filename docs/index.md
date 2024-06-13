@@ -40,6 +40,7 @@ Additional resources:
 - Provide the simplest way of access for inquiries - an email address. Forms and too many detailed questions might be inaccessible and/or put people off.
 - For people with reduced mobility, be specific about the actual situation. Some people that use wheelchairs can actually cross a few steps if needed. Some require specific accessible toilets, others do not. A generic term like “wheelchair accessible” leaves many questions for these people. Providing photos is great.
 - Ask (optional) for any accessibility needs in ticket registration, so you can anticipate. However, this never covers all cases, as needs can change.
+- Don't assume you know the accessibility needs of your participants, or attempt to guess them.
 - Check and document whether things like step-free access doors and lifts can be used independently. Sometimes there is no alternative, but it's very unpleasant when attendees can not navigate the venue independently. If there is no alternative, make sure staff is available, or provide clear direction on how to contact staff.
 - Sometimes things do not go according to plan, and the situation is not as accessible as people were expecting. Do whatever you can to provide workarounds, and actively inform anyone you know may run into those obstacles.
 - Don't forget to check and document the acccessibility of social event and dinner venues. They're actually more likely to have significant issues than an average conference venue.
