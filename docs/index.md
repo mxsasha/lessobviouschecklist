@@ -42,6 +42,8 @@ Additional resources:
 - Ask (optional) for any accessibility needs in ticket registration, so you can anticipate. However, this never covers all cases, as needs can change.
 - Don't assume you know the accessibility needs of your participants, or attempt to guess them.
 - Check and document whether things like step-free access doors and lifts can be used independently. Sometimes there is no alternative, but it's very unpleasant when attendees can not navigate the venue independently. If there is no alternative, make sure staff is available, or provide clear direction on how to contact staff.
+- Make sure paths are wide enough, e.g. for people with mobility aids. Even if buildings have step free access, chairs, tables, promotion booths and other obstacles are sometimes placed too close to each other.
+- Don't forget about access to the stage.
 - Sometimes things do not go according to plan, and the situation is not as accessible as people were expecting. Do whatever you can to provide workarounds, and actively inform anyone you know may run into those obstacles.
 - Don't forget to check and document the acccessibility of social event and dinner venues. They're actually more likely to have significant issues than an average conference venue.
 - Consider having a captioner/stenographer. This helps a wide range of attendees: people with hearing issues, speakers with various accents, and allows reading back if someone was distracted. It also provides a written and searchable record afterwards.
